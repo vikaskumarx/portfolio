@@ -1,6 +1,6 @@
 # portfolio
 
-This is portfolio github repo!
+This is a portfolio github repo!
 </br> </br>
 
 Auther - Vikas Kumar
